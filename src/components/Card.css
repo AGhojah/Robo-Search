@@ -5,6 +5,7 @@
     display: inline-block;
     flex-wrap: wrap;
     margin: 1em;
+    padding: 10px;
     border-style: solid;
     border-width: 2px;
     border-radius: 12px;
