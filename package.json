@@ -2,7 +2,7 @@
   "name": "robo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aghojah.github.io/Robo-Search/",
+  "homepage": "https://aghojah.github.io/Robo-Search",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.4",
