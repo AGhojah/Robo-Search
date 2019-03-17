@@ -1,0 +1,17 @@
+.basic {
+    background: rgba(120, 228, 213, 0.644);
+    align-content: center;
+    align-items: center;
+    display: inline-block;
+    flex-wrap: wrap;
+    margin: 1em;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 12px;
+    text-align: center;
+    transition: all 0.1s;
+}
+
+.basic:hover{
+    transform: scale(1.04);
+}
